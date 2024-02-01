@@ -1,7 +1,16 @@
-<script></script>
+<script>
+export default {
+  name: "Main",
+};
+</script>
 
 <template>
-  <main>Main</main>
+  <main></main>
 </template>
 
-<style scoped></style>
+<style scoped>
+main {
+  background-color: black;
+  height: 100px;
+}
+</style>
